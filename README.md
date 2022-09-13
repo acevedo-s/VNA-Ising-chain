@@ -6,6 +6,6 @@ The code below calculates the entropy, free energy and the two-point correlator 
 To know how this algorithm works in full detail, see https://arxiv.org/pdf/2101.10154.pdf 
 
 
-All routins used in 'RNN_1D_Ising.ipynb' are in 'VNA.py'.
+All routines used in 'RNN_1D_Ising.ipynb' are in 'VNA.py'.
 
 Exact and numerical results are compared, finding good agreement.
